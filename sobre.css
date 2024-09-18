@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(211, 192, 173);
+    font-size: 30px;
+    margin: 40px;
+}
+
+#section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

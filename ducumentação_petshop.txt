@@ -1,0 +1,83 @@
+Documentação do Projeto "Friendly Paws"
+
+Autores:
+
+Eduardo Bastos de Oliveira
+Nicholas Enzo Beghini Batistel
+Aline Santos Encarnação
+
+Descrição do Projeto:
+
+O projeto "Friendly Paws" é um website para um petshop que oferece produtos e serviços para animais de estimação. O site é projetado para ser informativo e acessível, permitindo que os usuários naveguem facilmente entre as diferentes seções, incluindo produtos, serviços, blog e informações de contato.
+
+Estrutura do Projeto:
+
+1. Estrutura de Arquivos:
+
+index.html: Arquivo principal que contém a estrutura do site.
+
+style.css: Folha de estilo que define a aparência do site.
+
+img/: Pasta que contém todas as imagens utilizadas no site.
+
+
+2. Seções do HTML:
+
+Header
+Navegação: Links para as diferentes seções do site (Início, Sobre Nós, Produtos, Serviços, Blog, Contato).
+
+Barra de Pesquisa: Campo de texto para pesquisa de produtos.
+
+Carrinho de Compras: Exibição do total no carrinho.
+
+Banner:
+
+Exibe feedbacks de usuários sobre o site.
+
+Imagem de banner que representa o petshop.
+Main
+
+Produtos: Exibição dos produtos disponíveis para venda, incluindo imagens, descrições e preços.
+Footer
+
+Navegação: Links adicionais para navegação.
+
+Informações sobre a loja: Seções sobre conta e pedidos.
+
+Formulário de Feedback: Campos para os usuários enviarem suas opiniões.
+
+3. Estilos (CSS):
+
+Cores e Layout: Utiliza uma paleta de cores quentes e um layout flexível para acomodar diferentes tamanhos de tela.
+
+Estilo de Cards: Feedbacks são apresentados em cards estilizados com sombra e bordas arredondadas.
+
+Estilo do Footer: Seções organizadas em colunas, com fundo escuro para contraste.
+
+Funcionalidades:
+
+Pesquisa de Produtos: Usuários podem procurar produtos diretamente pela barra de pesquisa.
+
+Exibição de Produtos: Produtos listados com imagens e preços.
+
+Feedback de Usuários: Seção interativa onde os usuários podem ver opiniões de outros clientes.
+
+Formulário de Contato: Permite que os usuários enviem feedback diretamente pelo site.
+
+Tecnologias Utilizadas:
+
+HTML5: Para estruturação do conteúdo.
+
+CSS3: Para estilização e design responsivo.
+
+Imagens em formatos adequados (JPEG, PNG).
+
+Considerações Finais:
+
+O projeto "Friendly Paws" foi desenvolvido com foco na usabilidade e na estética, proporcionando uma experiência agradável para os usuários.
+ As próximas etapas podem incluir a implementação de funcionalidades dinâmicas, como um sistema de gerenciamento de produtos e um carrinho de compras interativo.
+
+Licença:
+
+Este projeto é de código aberto e pode ser utilizado e modificado conforme necessário, com a devida atribuição aos autores.
+
